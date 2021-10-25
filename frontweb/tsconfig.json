@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseRul": "./src",
     "target": "es5",
     "lib": [
       "dom",
